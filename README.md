@@ -23,9 +23,9 @@ forks and small tools get them working again, mostly on KDE Plasma 6.
 | [kwin-touchpad-gesture-blocker](https://github.com/SamuelCGilbert/kwin-touchpad-gesture-blocker) | Stops KDE's own 3+ finger gestures so Touchégg's run alone |
 | [AutoKey for Wayland](https://github.com/SamuelCGilbert/autokey-wayland) | Hotkeys and text expansion on KDE Plasma without root or uinput. [.deb and .rpm packages](https://github.com/SamuelCGilbert/autokey-wayland/releases/latest) |
 | [autokey-kwin-bridge](https://github.com/SamuelCGilbert/autokey-kwin-bridge) | The KWin plugin AutoKey uses for key events and hotkeys |
-| [kwin-input](https://github.com/SamuelCGilbert/kwin-input) | Send keys and clicks and take screenshots on KDE Plasma, without root |
+| [kwin-input](https://github.com/SamuelCGilbert/kwin-input) | Send keys and clicks and take screenshots on KDE Plasma, without root. [.deb and .rpm packages](https://github.com/SamuelCGilbert/kwin-input/releases/latest) |
 | [CopyQ](https://github.com/SamuelCGilbert/CopyQ) | The tray menu closes when you click away. [Download the AppImage](https://github.com/SamuelCGilbert/CopyQ/releases/latest) |
 | [OculiX](https://github.com/SamuelCGilbert/Oculix) | Screen capture, input and the recorder work with Wayland windows on KDE |
 | [kwin-wayland-window-fixes](https://github.com/SamuelCGilbert/kwin-wayland-window-fixes) | "Bring window to current desktop" moves the window instead of copying it |
 | [easystroke-to-inputactions](https://github.com/SamuelCGilbert/easystroke-to-inputactions) | Converts easystroke mouse gestures for Input Actions |
-| [Input Actions Editor](https://github.com/SamuelCGilbert/InputActionsEditor) | Adds a page for turning mouse gestures off in chosen apps |
+| [Input Actions Editor](https://github.com/SamuelCGilbert/InputActionsEditor) | Adds a page for turning mouse gestures off in chosen apps. [Downloads](https://github.com/SamuelCGilbert/InputActionsEditor/releases/latest) |
