@@ -18,8 +18,8 @@ forks and small tools get them working again, mostly on KDE Plasma 6.
 
 | App | What it fixes |
 |---|---|
-| [Flameshot](https://github.com/SamuelCGilbert/flameshot) | Pinned screenshots open where you captured them and stay on top; faster capture on KDE |
-| [Touchégg](https://github.com/SamuelCGilbert/touchegg) | Touchpad gestures work in a KDE Plasma Wayland session |
+| [Flameshot](https://github.com/SamuelCGilbert/flameshot) | Pinned screenshots open where you captured them and stay on top; faster capture on KDE. [Download the AppImage](https://github.com/SamuelCGilbert/flameshot/releases/latest) |
+| [Touchégg](https://github.com/SamuelCGilbert/touchegg) | Touchpad gestures work in a KDE Plasma Wayland session. [.deb and .rpm packages](https://github.com/SamuelCGilbert/touchegg/releases/latest) |
 | [kwin-touchpad-gesture-blocker](https://github.com/SamuelCGilbert/kwin-touchpad-gesture-blocker) | Stops KDE's own 3+ finger gestures so Touchégg's run alone |
 | [AutoKey for Wayland](https://github.com/SamuelCGilbert/autokey-wayland) | Hotkeys and text expansion on KDE Plasma without root or uinput |
 | [autokey-kwin-bridge](https://github.com/SamuelCGilbert/autokey-kwin-bridge) | The KWin plugin AutoKey uses for key events and hotkeys |
