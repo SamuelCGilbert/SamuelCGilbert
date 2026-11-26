@@ -8,8 +8,17 @@ I like building small apps, automations and fixes for the things I use every day
   calendar for a group of friends: plans, RSVPs, date polls, bring lists, rides
   and costs. Live at [getogether.app](https://getogether.app).
 - **[Trawlr](https://github.com/SamuelCGilbert/trawlr)**: instant file-name
-  search for Linux with an always-current index, in the spirit of Everything
-  for Windows.
+  search for Linux, Windows and macOS with an always-current index, in the
+  spirit of Everything. [trawlr.io](https://trawlr.io)
+- **[Quipkey](https://github.com/SamuelCGilbert/quipkey)**: press a hotkey,
+  speak, and the text is typed into any app. Local, private speech recognition
+  for Windows and Linux. [Download](https://github.com/SamuelCGilbert/quipkey/releases/latest)
+- **[EasyInstall](https://github.com/SamuelCGilbert/easyinstall)**: pick Windows
+  apps, download one file, and install or update them all silently. Live at
+  [easyinstall.dev](https://easyinstall.dev).
+- **[MouseProbe](https://github.com/SamuelCGilbert/mouseprobe)**: finds what
+  makes your mouse stutter on Windows: slow mouse hooks in other programs, or
+  wireless/USB dropouts. [Download](https://github.com/SamuelCGilbert/mouseprobe/releases/latest)
 
 ## Linux apps on Wayland
 
