@@ -38,3 +38,12 @@ forks and small tools get them working again, mostly on KDE Plasma 6.
 | [kwin-wayland-window-fixes](https://github.com/SamuelCGilbert/kwin-wayland-window-fixes) | "Bring window to current desktop" moves the window instead of copying it |
 | [easystroke-to-inputactions](https://github.com/SamuelCGilbert/easystroke-to-inputactions) | Converts easystroke mouse gestures for Input Actions |
 | [Input Actions Editor](https://github.com/SamuelCGilbert/InputActionsEditor) | Adds a page for turning mouse gestures off in chosen apps. [Downloads](https://github.com/SamuelCGilbert/InputActionsEditor/releases/latest) |
+
+## Contributions
+
+Merged pull requests to other projects (updated daily).
+
+<!-- contributions:start -->
+- **[stake-house/wagyu-key-gen](https://github.com/stake-house/wagyu-key-gen)**: [Changed link colors on Generate Mnemonics page.](https://github.com/stake-house/wagyu-key-gen/pull/35) (Aug 2021)
+- **[stake-house/wagyu-key-gen](https://github.com/stake-house/wagyu-key-gen)**: [Fixes for Issue #16 & 17](https://github.com/stake-house/wagyu-key-gen/pull/22) (Aug 2021)
+<!-- contributions:end -->
