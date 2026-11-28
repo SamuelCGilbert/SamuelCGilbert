@@ -44,6 +44,7 @@ forks and small tools get them working again, mostly on KDE Plasma 6.
 Merged pull requests to other projects (updated daily).
 
 <!-- contributions:start -->
+- **[Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core)**: [fix(home): let watched items with a resume point be hidden from Continue Watching](https://github.com/Moonfin-Client/Moonfin-Core/pull/2494) (Nov 2026)
 - **[stake-house/wagyu-key-gen](https://github.com/stake-house/wagyu-key-gen)**: [Changed link colors on Generate Mnemonics page.](https://github.com/stake-house/wagyu-key-gen/pull/35) (Aug 2021)
 - **[stake-house/wagyu-key-gen](https://github.com/stake-house/wagyu-key-gen)**: [Fixes for Issue #16 & 17](https://github.com/stake-house/wagyu-key-gen/pull/22) (Aug 2021)
 <!-- contributions:end -->
